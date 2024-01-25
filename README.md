@@ -5,13 +5,13 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 
 ## 🚀 Stack
 
-- HTML ![Html](https://i.imgur.com/xiTRp8L.png)
-- CSS [Css](https://i.imgur.com/5b3elD4.png)
-- JavaScript [Javascript](https://i.imgur.com/QPURzHS.png)
-- React Js [React Js](https://i.imgur.com/s8xEsBD.png)
-- Bootstrap [Bootstrap](https://i.imgur.com/AvKTnxK.png)
-- Tailwind [Tailwind](https://i.imgur.com/nB8BcP9.png)
-- Git [Git](https://i.imgur.com/ezaPYYQ.png)
+- HTML ![Html](https://i.imgur.com/xiTRp8L.png){: width="25px"}
+- CSS ![Css](https://i.imgur.com/5b3elD4.png){: width="25px"}
+- JavaScript ![Javascript](https://i.imgur.com/QPURzHS.png){: width="25px"}
+- React Js ![React Js](https://i.imgur.com/s8xEsBD.png){: width="25px"}
+- Bootstrap ![Bootstrap](https://i.imgur.com/AvKTnxK.png){: width="25px"}
+- Tailwind ![Tailwind](https://i.imgur.com/nB8BcP9.png){: width="25px"}
+- Git ![Git](https://i.imgur.com/ezaPYYQ.png){: width="25px"}
 
 ## 💼 Experiencia
 
