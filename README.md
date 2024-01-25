@@ -1,34 +1,36 @@
-# ¡Hola, soy [Pablo Fabbian]! 👋
+# ¡Hola, soy Pablo Fabbian! 👋
 
-[Me considero proactivo, empático y creativo, con devoción al servicio. Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer profesionalmente y continuar de forma paralela mis estudios...]
+Soy un programador Frontend radicado en Buenos Aires, Argentina. Me considero proactivo, empático y creativo, de gran devoción al servicio.
+Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer profesionalmente y continuar de forma paralela mis estudios.
 
-## 🚀 Habilidades
+## 🚀 Stack
 
-- [HTML]
-- [CSS]
-- [JavaScript]
-- [React.js]
+- HTML 
+- CSS 
+- JavaScript 
+- React Js 
 
 ## 💼 Experiencia
 
-- [Trial Class Manager | Kodland LATAM]
+- **_Trial Class Manager | Kodland LATAM_**
   Diagnósticos personalizados, práctica de codificación y exposición educativa.
   Guía en decisiones educativas y facilitación de inscripciones exitosas.
 
-## 🌱 Actualmente estoy aprendiendo
+```
+> 🌱 Actualmente estoy aprendiendo
 
-- [React Native]
-- [Diseño UX/UI]
-- [Figma]
-
-## 📫 Cómo contactarme | [pablo.fabbian@gmail.com]
+- ### React Native
+- ### Diseño UX/UI
+- ### Figma
+```
 
 ## 🤝 Conecta conmigo
 
 ¡Hablemos sobre cualquier cosa interesante! 😊
 
-- [Threads] | [https://www.threads.net/@pablo.fabbian]
-- [LinkedIn] | [https://www.linkedin.com/in/pablofabbian]
+- **_[LinkedIn]_** (https://www.linkedin.com/in/pablofabbian)
+- **_[Threads]_** (https://www.threads.net/@pablo.fabbian)
+- **_[Gmail]_** (pablo.fabbian@gmail.com)
 
 ---
 
