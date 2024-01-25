@@ -6,13 +6,13 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 ## 🚀 Stack
 
 <p float="left" align="center">
-  <img src="https://imgur.com/xiTRp8L.png" alt="HTML" width="15%">
-  <img src="https://imgur.com/5b3elD4.png" alt="CSS" width="15%">
-  <img src="https://imgur.com/QPURzHS.png" alt="JavaScript" width="15%">
-  <img src="https://i.imgur.com/s8xEsBD.png" alt="React Js" width="15%">
-  <img src="https://i.imgur.com/AvKTnxK.png" alt="Bootstrap" width="15%">
-  <img src="https://i.imgur.com/nB8BcP9.png" alt="Tailwind" width="15%">
-  <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="15%">
+  <img src="https://imgur.com/xiTRp8L.png" alt="HTML" width="7%">
+  <img src="https://imgur.com/5b3elD4.png" alt="CSS" width="7%">
+  <img src="https://imgur.com/QPURzHS.png" alt="JavaScript" width="7%">
+  <img src="https://i.imgur.com/s8xEsBD.png" alt="React Js" width="7%">
+  <img src="https://i.imgur.com/AvKTnxK.png" alt="Bootstrap" width="7%">
+  <img src="https://i.imgur.com/nB8BcP9.png" alt="Tailwind" width="7%">
+  <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
 </p>
 
 ## 💼 Experiencia
