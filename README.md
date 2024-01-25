@@ -8,7 +8,9 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 - HTML 
 - CSS 
 - JavaScript 
-- React Js 
+- React Js
+- Bootstrap
+- Tailwind
 
 ## 💼 Experiencia
 
@@ -19,9 +21,9 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 
 ## 🌱 Actualmente estoy aprendiendo
 
-  > React Native
-  > Diseño UX/UI
-  > Figma
+  - React Native
+  - Diseño UX/UI
+  - Figma
 
 
 ## 🤝 Conecta conmigo
@@ -29,9 +31,9 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 ¡Hablemos sobre cualquier cosa interesante! 😊
 Actualmente busco un mentor activo, si estas interesadx en conseguir un compañero ¡No dudes en comentarme al DM!
 
+- **_Gmail_** | pablo.fabbian@gmail.com
 - **_[LinkedIn](https://www.linkedin.com/in/pablofabbian)_**
 - **_[Threads](https://www.threads.net/@pablo.fabbian)_**
-- **_Gmail_** | pablo.fabbian@gmail.com
 
 ---
 
