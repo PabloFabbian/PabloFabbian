@@ -33,9 +33,13 @@ Momentaneamente me encuentro en la búsqueda de un trabajo que me permita crecer
 ## 🌱 Actualmente estoy aprendiendo
 
   - Diseño UX/UI
-  - React Native
   - Figma
 
+## 🍃 Tengo interés en
+
+- React Native
+- Next.js
+- Astro
 
 ## 🤝 Conecta conmigo
 
