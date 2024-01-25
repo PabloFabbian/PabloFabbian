@@ -5,12 +5,13 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 
 ## 🚀 Stack
 
-- HTML 
-- CSS 
-- JavaScript 
-- React Js
-- Bootstrap
-- Tailwind
+- HTML ![Html](https://i.imgur.com/xiTRp8L.png)
+- CSS [Css](https://i.imgur.com/5b3elD4.png)
+- JavaScript [Javascript](https://i.imgur.com/QPURzHS.png)
+- React Js [React Js](https://i.imgur.com/s8xEsBD.png)
+- Bootstrap [Bootstrap](https://i.imgur.com/AvKTnxK.png)
+- Tailwind [Tailwind](https://i.imgur.com/nB8BcP9.png)
+- Git [Git](https://i.imgur.com/ezaPYYQ.png)
 
 ## 💼 Experiencia
 
@@ -21,8 +22,8 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 
 ## 🌱 Actualmente estoy aprendiendo
 
-  - React Native
   - Diseño UX/UI
+  - React Native
   - Figma
 
 
@@ -31,9 +32,9 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 ¡Hablemos sobre cualquier cosa interesante! 😊
 Actualmente busco un mentor activo, si estas interesadx en conseguir un compañero ¡No dudes en comentarme al DM!
 
+- **_LinkedIn_** | https://www.linkedin.com/in/pablofabbian
+- **_Threads_** | https://www.threads.net/@pablo.fabbian
 - **_Gmail_** | pablo.fabbian@gmail.com
-- **_[LinkedIn](https://www.linkedin.com/in/pablofabbian)_**
-- **_[Threads](https://www.threads.net/@pablo.fabbian)_**
 
 ---
 
