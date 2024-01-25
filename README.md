@@ -7,6 +7,7 @@ Y hoy día me encuentro en la búsqueda de un trabajo que me permita crecer prof
 
 <p float="left" align="center">
   <img src="https://imgur.com/xiTRp8L.png" alt="HTML" width="7%">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://imgur.com/5b3elD4.png" alt="CSS" width="7%">
   <img src="https://imgur.com/QPURzHS.png" alt="JavaScript" width="7%">
   <img src="https://i.imgur.com/s8xEsBD.png" alt="React Js" width="7%">
