@@ -46,9 +46,9 @@
 ¡Hablemos sobre cualquier cosa interesante! 😊
 Actualmente busco un mentor activo, si estas interesadx en conseguir un compañero ¡No dudes en comentarme al DM!
 
+- **_Gmail_** | https://mail.google.com/mail/?view=cm&fs=1&to=pablo.fabbian@gmail.com
 - **_LinkedIn_** | https://www.linkedin.com/in/pablofabbian
 - **_Threads_** | https://www.threads.net/@pablo.fabbian
-- **_Gmail_** | pablo.fabbian@gmail.com
 
 ---
 
