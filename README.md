@@ -1,6 +1,6 @@
 <h1 align="center"><strong> ¡Hola, soy Pablo Fabbian! 👋</strong></h1>
 
- <img src="https://i.imgur.com/6SWDmml.png" alt="codingBanner">
+ <img src="https://i.imgur.com/S8sebnz.jpg" alt="codingBanner">
 
 <div align="center">Programador Frontend radicado en Buenos Aires, Argentina. Me considero proactivo, empático, creativo y de gran devoción al servicio.</div>
 <div align="center">Momentaneamente me encuentro en la búsqueda de un trabajo que me permita crecer profesionalmente y continuar de forma paralela mis estudios.</div>
