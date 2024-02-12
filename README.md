@@ -46,10 +46,10 @@
 ¡Hablemos sobre cualquier cosa interesante! 😊
 Actualmente busco un mentor activo, si estas interesadx en conseguir un compañero ¡No dudes en comentarme al DM!
 
-- **_Gmail_** &nbsp;&nbsp;&nbsp;| https://mail.google.com/mail/?view=cm&fs=1&to=pablo.fabbian@gmail.com
-- **_LinkedIn_**&nbsp;| https://www.linkedin.com/in/pablofabbian
-- **_Threads_**&nbsp;| https://www.threads.net/@pablo.fabbian
-- **_Portfolio_**&nbsp;| https://pf-portfolio.vercel.app
+- **_Gmail_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| https://mail.google.com/mail/?view=cm&fs=1&to=pablo.fabbian@gmail.com
+- **_LinkedIn_** &nbsp;| https://www.linkedin.com/in/pablofabbian
+- **_Threads_** &nbsp;&nbsp;| https://www.threads.net/@pablo.fabbian
+- **_Portfolio_** &nbsp;| https://pf-portfolio.vercel.app
 ---
 
 ⭐️ ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante.
