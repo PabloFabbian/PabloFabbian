@@ -22,7 +22,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://imgur.com/a/Xw1TTdK.png" alt="Sass" width="7%">
+  <img src="https://imgur.com/vawnrte.png" alt="Sass" width="7%">
 </p>
 
 ## 💼 Experiencia
