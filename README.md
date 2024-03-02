@@ -21,6 +21,8 @@
   <img src="https://i.imgur.com/nB8BcP9.png" alt="Tailwind" width="7%">
   &nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://imgur.com/a/Xw1TTdK.png" alt="Sass" width="7%">
 </p>
 
 ## 💼 Experiencia
