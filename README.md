@@ -24,7 +24,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/SJqIazj.png" alt="Figma" width="7%">
+  <img src="https://i.imgur.com/V0KijnG.png" alt="Figma" width="7%">
 </p>
 
 ## 💼 Experiencia
