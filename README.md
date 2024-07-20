@@ -23,6 +23,8 @@
   <img src="https://i.imgur.com/nB8BcP9.png" alt="Tailwind" width="7%">
   &nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/ezaPYYQ.png" alt="Figma" width="7%">
 </p>
 
 ## 💼 Experiencia
@@ -32,10 +34,16 @@
   Diagnósticos personalizados, práctica de codificación y exposición educativa.
   Guía en decisiones educativas y facilitación de inscripciones exitosas.
 
+- **_Frontend Developer | Tower Software_**
+  
+  Implementación y optimización de interfaces de usuario para aplicaciones web.
+  Colaboración con equipos de back-end para una integración fluida y funcional
+  Resolución de bugs para mejorar el rendimiento y la experiencia del usuario.
+
 ## 🌱 Actualmente estoy aprendiendo
 
   - Diseño UX/UI
-  - Figma
+  - Desarrollo 3D
 
 ## 🍃 Tengo interés en
 
