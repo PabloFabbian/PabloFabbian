@@ -2,7 +2,7 @@
 
  <img src="https://i.imgur.com/Fz2rxoH.png" alt="codingBanner">
 
-<div align="center">Desarrollador Frontend radicado en Buenos Aires, Argentina.
+<div align="center">Desarrollador Frontend radicado en Buenos Aires, Argentina.</div>
 <div align="center">La curiosidad y el deseo de aprender me impulsan a adaptarme a nuevas tecnologías y desafíos.</div>
 <div align="center">En este momento, estoy buscando una oportunidad laboral que me permita crecer profesionalmente mientras continúo con mis estudios en Ciencias de la Computación en UBA Exactas.</div>
 
