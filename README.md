@@ -2,8 +2,9 @@
 
  <img src="https://i.imgur.com/Fz2rxoH.png" alt="codingBanner">
 
-<div align="center">Programador Frontend radicado en Buenos Aires, Argentina. Me considero proactivo, empático, creativo y de gran devoción al servicio.</div>
-<div align="center">Momentaneamente me encuentro en la búsqueda de un trabajo que me permita crecer profesionalmente y continuar de forma paralela mis estudios.</div>
+<div align="center">Desarrollador Frontend radicado en Buenos Aires, Argentina.
+<div align="center">La curiosidad y el deseo de aprender me impulsan a adaptarme a nuevas tecnologías y desafíos.</div>
+<div align="center">En este momento, estoy buscando una oportunidad laboral que me permita crecer profesionalmente mientras continúo con mis estudios.</div>
 
 ## 🚀 Stack
 
