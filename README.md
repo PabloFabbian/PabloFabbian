@@ -49,11 +49,10 @@
   - Diseño UX/UI
   - Typescript
 
-## 🍃 Tengo interés en
+## 🍃 Intereses
 
-- React Native
-- Next.js
-- Integración de 3D en la Web
+| 🌐 React Native | ⚛️ Next.js | 🎨 Webflow | 🖌️ Framer |
+|-----------------|------------|-----------|-----------|
 
 ## 🤝 Conecta conmigo
 
