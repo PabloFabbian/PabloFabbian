@@ -1,5 +1,3 @@
-<h1 align="center"><strong>¡Hola, soy Pablo Fabbian! 👋</strong></h1>
-
 <img src="https://i.imgur.com/NwRQ4h2.png" alt="codingBanner">
 
 <div align="center">
