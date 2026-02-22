@@ -6,7 +6,7 @@ Apasionado por crear experiencias digitales atractivas y eficientes.<br>
 Actualmente en búsqueda de oportunidades para crecer profesionalmente mientras estudio la Tecnicatura en Programación en UTN.
 </div>
 
-## 🚀 Stack
+## 🚀 Stack 
 
 <p float="left" align="center">
   <img src="https://i.imgur.com/s8xEsBD.png" alt="React Js" width="7%">
