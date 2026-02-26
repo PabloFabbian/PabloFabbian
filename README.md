@@ -1,76 +1,81 @@
 <img src="https://i.imgur.com/NwRQ4h2.png" alt="codingBanner">
 
 <div align="center">
-Frontend Developer radicado en Buenos Aires, Argentina.<br>
-Apasionado por crear experiencias digitales atractivas y eficientes.<br>
-Actualmente en búsqueda de oportunidades para crecer profesionalmente mientras estudio la Tecnicatura en Programación en UTN.
+  <strong>Frontend Developer</strong> · Buenos Aires, Argentina<br>
+  Construyo interfaces web funcionales, performantes y con identidad visual.<br>
+  Técnico en Programación — UTN · Actualmente en Tower Software.
 </div>
 
-## 🚀 Stack 
+---
 
-<p float="left" align="center">
-  <img src="https://i.imgur.com/s8xEsBD.png" alt="React Js" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://imgur.com/QPURzHS.png" alt="JavaScript" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://imgur.com/xiTRp8L.png" alt="HTML" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://imgur.com/5b3elD4.png" alt="CSS" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/nB8BcP9.png" alt="Tailwind" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/ezaPYYQ.png" alt="Git" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/RUDJq4j.png" alt="GSAP" width="7%">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/V0KijnG.png" alt="Figma" width="7%">
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite,supabase,figma,git" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+---
 
 ## 💼 Experiencia
 
-### **_Desarrollador Frontend - React & Next.js | Tower Software_** *(May 2025 - Actualidad)*
-- Desarrollo de interfaces web con React y Next.js.  
-- Implementación de componentes con Tailwind CSS y animaciones con GSAP.  
-- Integración de APIs y servicios externos como EmailJS.  
-- Optimización de UX y performance frontend.  
-- Trabajo colaborativo mediante Pull Requests y flujo Git Flow.  
+### **Desarrollador Frontend — React & Next.js · Tower Software** *(May 2025 - Actualidad)*
+- Desarrollo de interfaces con React y Next.js.
+- Componentes con Tailwind CSS y animaciones con GSAP.
+- Integración de APIs y servicios externos (EmailJS).
+- Trabajo colaborativo con Pull Requests y flujo Git Flow.
 
-### **_Frontend React Developer | Rucavi_** *(Nov 2024 - Jul 2025)*  
-- Desarrollo de landing pages comerciales y dashboard administrativo.  
-- Construcción de interfaces reutilizables y mantenibles.  
-- Integración con APIs REST y servicios externos (PayPal).  
-- Aplicación de principios de diseño responsive y UX/UI.  
-- Colaboración con equipos técnicos y seguimiento de requerimientos funcionales.  
+### **Frontend React Developer · Rucavi** *(Nov 2024 - Jul 2025)*
+- Landing pages comerciales y dashboard administrativo.
+- Interfaces reutilizables integradas con APIs REST y PayPal.
+- Diseño responsive y colaboración con equipos técnicos.
 
-### **_Desarrollador Frontend Junior | Stefanini LATAM_** *(Nov 2023 - Oct 2024)*  
-- Desarrollo y mantenimiento de aplicaciones frontend con React.  
-- Creación y mantenimiento de componentes funcionales.  
-- Manejo de estado, props y hooks.  
-- Integración con APIs REST y maquetación responsive.  
-- Corrección de bugs y mejoras de usabilidad.  
+### **Desarrollador Frontend Junior · Stefanini LATAM** *(Nov 2023 - Oct 2024)*
+- Desarrollo y mantenimiento de aplicaciones frontend con React.
+- Componentes funcionales, hooks, manejo de estado e integración con APIs REST.
+- Corrección de bugs y mejoras de usabilidad.
 
-### **_Desarrollador Web Freelance | Autónomo_** *(Ago 2022 - Sept 2023)*  
-- Desarrollo de aplicaciones web personalizadas centradas en el usuario.  
-- Maquetación responsive y consumo de APIs REST.  
-- Primeros proyectos con React, enfocado en componentes y estado.  
+### **Desarrollador Web Freelance** *(Ago 2022 - Sep 2023)*
+- Aplicaciones web personalizadas con React, maquetación responsive y consumo de APIs REST.
 
-## 🌱 Actualmente estoy aprendiendo
-- TypeScript  
-- UX/UI avanzado  
-- Next.js y optimización de performance  
+---
 
-## 🍃 Intereses
+## 🚀 Enfoque Actual
 
-| 📱 React Native | ⬆️ Next.js | 🌐 WordPress | 🧪 Testing |
-| --------------- | ---------- | ------------ | ---------- |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+</p>
+
+<p align="center">
+  <strong>TypeScript-first development</strong> ·
+  <strong>Arquitectura escalable en React / Next.js</strong> ·
+  <strong>Performance & DX</strong>
+</p>
+
+---
+
+## 🤝 Conectemos
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablofabbian">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pfsoftware.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 🤝 Conecta conmigo
 
-¡Discutamos ideas innovadoras! ⚡  
-Busco mentoría activa y colaboración en proyectos interesantes.
+Abierto a colaborar en proyectos desafiantes y de alto impacto.
 
 - **LinkedIn:** [linkedin.com/in/pablofabbian](https://www.linkedin.com/in/pablofabbian)  
 - **Threads:** [threads.net/@pablo.fabbian](https://www.threads.net/@pablo.fabbian)  
 - **Portfolio:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app)  
-
-**⭐️ ¡Gracias por visitar mi perfil! Espero que encuentres algo que te inspire.**
