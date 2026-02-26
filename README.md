@@ -47,27 +47,13 @@
 ## 🚀 Enfoque Actual
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
 </p>
 
 <p align="center">
-  <strong>TypeScript-first development</strong> ·
-  <strong>Arquitectura escalable en React / Next.js</strong> ·
-  <strong>Performance & DX</strong>
-</p>
-
----
-
-## 🤝 Conectemos
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablofabbian">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pfsoftware.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <strong>Explorando React Native</strong> ·
+  <strong>TypeScript en entornos reales</strong> ·
+  <strong>Profundizando Next.js (Rendering Patterns)</strong>
 </p>
 
 ---
@@ -77,5 +63,4 @@
 Abierto a colaborar en proyectos desafiantes y de alto impacto.
 
 - **LinkedIn:** [linkedin.com/in/pablofabbian](https://www.linkedin.com/in/pablofabbian)  
-- **Threads:** [threads.net/@pablo.fabbian](https://www.threads.net/@pablo.fabbian)  
 - **Portfolio:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app)  
