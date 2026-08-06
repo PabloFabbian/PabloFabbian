@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/NwRQ4h2.png" alt="codingBanner">
+<img src="https://i.imgur.com/nucRiRj.png" alt="codingBanner">
 
 <div align="center">
   <strong>Frontend Developer</strong> · Buenos Aires, Argentina<br>
