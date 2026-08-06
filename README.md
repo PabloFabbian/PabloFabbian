@@ -1,9 +1,8 @@
 <img src="https://i.imgur.com/nucRiRj.png" alt="codingBanner">
 
 <div align="center">
-  <strong>Frontend Developer</strong> · Buenos Aires, Argentina<br>
-  Construyo interfaces web funcionales, performantes y con identidad visual.<br>
-  Técnico en Programación — UTN · Actualmente en Tower Software.
+  <strong>Frontend Development</strong> · Buenos Aires, Argentina<br>
+  Construimos interfaces web funcionales, performantes y con identidad visual.
 </div>
 
 ---
