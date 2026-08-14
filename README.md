@@ -2,7 +2,8 @@
 
 <div align="center">
   <strong>Frontend Development</strong> · Buenos Aires, Argentina<br>
-  Construimos interfaces web funcionales, performantes y con identidad visual.
+  Construimos interfaces web funcionales, performantes y con identidad visual.<br>
+  🏢 Fundador de <a href="https://pfsoftware.vercel.app"><strong>PF Software</strong></a>, agencia de desarrollo web.
 </div>
 
 ---
@@ -48,7 +49,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
 </p>
-
 <p align="center">
   <strong>Explorando React Native</strong> ·
   <strong>TypeScript en entornos reales</strong> ·
@@ -63,3 +63,4 @@ Abierto a colaborar en proyectos desafiantes y de alto impacto.
 
 - **LinkedIn:** [linkedin.com/in/pablofabbian](https://www.linkedin.com/in/pablofabbian)  
 - **Portfolio:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app)  
+- **PF Software:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app) — agencia de desarrollo web
