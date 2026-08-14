@@ -62,5 +62,4 @@
 Abierto a colaborar en proyectos desafiantes y de alto impacto.
 
 - **LinkedIn:** [linkedin.com/in/pablofabbian](https://www.linkedin.com/in/pablofabbian)  
-- **Portfolio:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app)  
 - **PF Software:** [pfsoftware.vercel.app](https://pfsoftware.vercel.app) — agencia de desarrollo web
